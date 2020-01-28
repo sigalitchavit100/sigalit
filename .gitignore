@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs/Avensia.Storefront.Developertest/v15
+/packages
+/UnitTestAvensia/bin/Debug
+/Avensia.Storefront.Developertest/obj/Debug
+/UnitTestAvensia/obj/Debug
+/Avensia.Storefront.Developertest/bin/Debug
+/.vs/Avensia.Storefront.Developertest/v16/Server/sqlite3
+/.vs/Avensia.Storefront.Developertest/v16/TestStore/0
+/.vs/Avensia.Storefront.Developertest/v16/.suo
